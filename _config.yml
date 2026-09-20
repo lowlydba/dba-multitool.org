@@ -16,7 +16,7 @@
 title: DBA MultiTool
 description: "T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs."
 baseurl: "" 
-url: "https://dba-multitool.org" 
+url: "https://lowlydba.github.io/dba-multitool.org/" 
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
